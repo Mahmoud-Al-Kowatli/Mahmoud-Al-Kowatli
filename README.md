@@ -14,8 +14,8 @@
 
 ## 🏆 Achievements
 - 🥇 **49th Place** | 2025 ICPC ACPC Kickoff Online Individual Contest 
-- 📜 **Official Certificate of Achievement** | [cite_start]International Collegiate Programming Contest (ICPC) 
-- 🔗 **[View My ICPC Certificate Here](./2026-ICPC-ACPC-Kickoff-Mahmoud-Al-kowatli-PLACE.pdf)**
+- 📜 **Official Certificate of Achievement** | International Collegiate Programming Contest (ICPC) [cite: 1]
+- [cite_start]🔗 **[Click here to view my ICPC Certificate](./2026-ICPC%20ACPC%20Kickoff-Mahmoud%20Al%20kowatli-PLACE.pdf)** [cite: 1]
 
 ## 🌐 Connect with Me
 <p align="left">
