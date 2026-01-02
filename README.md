@@ -5,15 +5,15 @@
 </p>
 
 ## 🚀 About Me
-- 🎓 **Diploma in Software Engineering** | [cite_start]Damascus University 
-- 📚 **B.S. in Information Technology** (Ongoing) | [cite_start]Al-Sham Private University (ASPU) 
+- 🎓 **Diploma in Software Engineering** | Damascus University 
+- 📚 **B.S. in Information Technology** (Ongoing) | Al-Sham Private University (ASPU) 
 - 🛡️ **Cybersecurity Enthusiast:** Focused on network security and ethical hacking.
 - 💻 **Software Developer:** Specialized in building efficient applications using **C++**.
 - 🐧 **Linux Power User:** Passionate about system customization and "ricing" environments.
 - 💡 Deeply interested in **Data Structures & Algorithms (DSA)**.
 
 ## 🏆 Achievements
-- 🥇 **49th Place** | [cite_start]2025 ICPC ACPC Kickoff Online Individual Contest 
+- 🥇 **49th Place** | 2025 ICPC ACPC Kickoff Online Individual Contest 
 - 📜 **Official Certificate of Achievement** | [cite_start]International Collegiate Programming Contest (ICPC) 
 - 🔗 **[View My ICPC Certificate Here](./2026-ICPC-ACPC-Kickoff-Mahmoud-Al-kowatli-PLACE.pdf)**
 
