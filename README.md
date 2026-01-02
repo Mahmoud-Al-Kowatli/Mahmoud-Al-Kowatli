@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Mahmoud! 👋
 
-<!--
-**Mahmoud-Al-Kowatli/Mahmoud-Al-Kowatli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mahmoud-Al-Kowatli&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud-Al-Kowatli" />
+</p>
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **[Project Name]**
+- 🌱 I’m currently learning **Full Stack Development**
+- 💬 Ask me about **JavaScript, React, or Python**
+- 📫 How to reach me: **[Your Email]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,github,vscode,py,figma" />
+  </a>
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Al-Kowatli&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Al-Kowatli&layout=compact&theme=radical" />
+</p>
+
+---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Al-Kowatli&theme=radical" alt="GitHub Streak" />
+</p>
