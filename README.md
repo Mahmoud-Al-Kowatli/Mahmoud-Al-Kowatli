@@ -1,5 +1,4 @@
-# ⚡ Mahmoud Al Kowatli
-
+# ⚡ Mahmoud Al Kowatli (Махвойд)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Software%20Engineer%20&fontSize=70" />
 </p>
